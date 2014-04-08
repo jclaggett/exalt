@@ -8,5 +8,5 @@ Computer Programming Class
 
 Links to run a minecraft server that can accept python scripts.
 
-http://dev.bukkit.org/bukkit-plugins/raspberryjuice/
-http://www.spigotmc.org/
+* http://dev.bukkit.org/bukkit-plugins/raspberryjuice/
+* http://www.spigotmc.org/
