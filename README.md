@@ -1,4 +1,4 @@
-exalt
+EXALT
 =====
 
 Computer Programming Class
